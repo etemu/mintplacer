@@ -35,9 +35,7 @@ Templates/
 OldVersions/
 Design Data/
 
-*.ipt
-*.iam
 *.lck
 *.log
 *.ipj
-X-portal-assembly-LWLF42.ipj.old
+*.ipj.old
